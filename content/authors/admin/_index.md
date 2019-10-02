@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduanda em Estatística
+role: Statistics student
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
   url: "http://www.estatistica.uff.br/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tenho interesse em conciliar programação com finanças.
+bio: 
 
 interests:
-- Educação
-- Programação
-- Finanças
+- Programming
+- Education
+- Finances
 
 education:
   courses:
-  - course: Estatística
-    institution: Unniversidade Federal Fluminense
-    year: cursando
+  - course: Statistics
+    institution: Universidade Federal Fluminense
+    year:
 
 
 # Social/Academic Networking
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: juliaferreira@id.uff.br '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link:  '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/juliahellenff
@@ -65,6 +65,5 @@ user_groups:
 - Visitors
 ---
 
-Julia Ferreira é aluna do curso de Estatística na Universidade Federal Fluminense. Participa do projeto "Estatística é com R", que tem como objetivo ensinar a linguagem através de vídeo aulas. Ela foi responsável pela série de vídeos sobre o pacote R-Commander.
-
-É co-organizadora do R Ladies Niterói, que é uma organização mundial cuja missão é promover a diversidade de gênero na cominidade R. A cada encontro realiza palestras ou cursos sobre um pacote da linguagem.
+Julia Ferreira is a student of the statistics course at the Universidade Federal Fluminense. Join the project “Statistics is with R”, which aims to teach a language through video lessons. She was responsible for the video series about the R-Commander package. 
+She is the co-organizer of R Ladies Niterói, which is a worldwide organization whose mission is to promote gender diversity.  A meeting of lectures or courses on a language pack.
