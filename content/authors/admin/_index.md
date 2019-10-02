@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Tenho interesse em conciliar programação com finanças.
 
-interesses:
+interests:
 - Educação
 - Programação
 - Finanças
 
-educação:
+education:
   courses:
-  - Curso: Estatística
-    Instituição: Unniversidade Federal Fluminense
-    Ano: Cursando
+  - course: Estatística
+    institution: Unniversidade Federal Fluminense
+    year: cursando
 
 
 # Social/Academic Networking
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Julia Ferreira é aluna do curso de Estatística na Universidade Federal Fluminense. Participa do projeto "Estatística é com R", que tem como objetivo ensinar a linguagem R através de vídeo aulas. Ela foi responsável pela série de vídeos sobre o pacote R Commander.
+Julia Ferreira é aluna do curso de Estatística na Universidade Federal Fluminense. Participa do projeto "Estatística é com R", que tem como objetivo ensinar a linguagem através de vídeo aulas. Ela foi responsável pela série de vídeos sobre o pacote R-Commander.
 
-É co-organizadora do R Ladies Niterói, que é uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R. A cada encontro realiza palestras ou cursos sobre o R.
+É co-organizadora do R Ladies Niterói, que é uma organização mundial cuja missão é promover a diversidade de gênero na cominidade R. A cada encontro realiza palestras ou cursos sobre um pacote da linguagem.
