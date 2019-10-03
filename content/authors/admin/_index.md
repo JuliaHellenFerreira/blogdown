@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Statistics
-    institution: Universidade Federal Fluminense
-    year:
+  - course: Edificações
+    institution: Escola Técnica Estadual Henrique Lage
+    year: 2014
 
 
 # Social/Academic Networking
