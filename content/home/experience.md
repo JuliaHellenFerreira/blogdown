@@ -19,19 +19,32 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Jovem Aprendiz"
-  company = "Zamboni LTDA"
-  company_url = ""
-  location = "Rio de Janeiro"
-  date_start = "2015-12-01"
-  date_end = "2016-10-31"
+  title = "Universidade Federal Fluminense"
+  company = "Project: Statistic is with R"
+  company_url = "http://www.estatisticacomr.uff.br/"
+  location = "Niteró / RJ"
+  date_start = "2018-04-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
-  * Customer Registration
-  * Internal Audits
-  * Customer Service
+  * Create video leasson about R
+  * Elaboration of the post for site
   
   """
-
+[[experience]]
+  title = "R Ladies Global"
+  company = "R Ladies Niterói"
+  company_url =  "https://www.meetup.com/pt-BR/rladies-niteroi/"
+  location = "Niteró / RJ"
+  date_start = "2018-08-30"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Lecture
+  * Course
+  * Videos Lesson
+  
+  """
 +++

@@ -19,14 +19,64 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Introduction to R"
-  url = ""
+  organization = "R Ladies Niterói"
+  organization_url = "https://www.meetup.com/pt-BR/rladies-niteroi/"
+  title = "Exercitando o R Commander"
+  url = "https://github.com/JuliaHellenFerreira/R-LadiesNiteroi/blob/master/Exercitando%20o%20R%20Commander.pdf"
   certificate_url = ""
-  date_start = ""
+  date_start = "2019-05-02"
   date_end = ""
-  description = ""
+  description = "Exercising the R Commander."
 
+[[item]]
+  organization = "R Ladies Niterói"
+  organization_url = "https://www.meetup.com/pt-BR/rladies-niteroi/"
+  title = "R Commander e Estatítica Descritiva"
+  url = "https://github.com/JuliaHellenFerreira/R-LadiesNiteroi/blob/master/R%20Commander%20e%20Estatistica%20Descritiva.pdf"
+  certificate_url = ""
+  date_start = "2018-11-13"
+  date_end = ""
+  description = "R Commander and Descriptive Statistics."
+  
+
+[[item]]
+  organization = "R Ladies Niterói"
+  organization_url = "https://www.meetup.com/pt-BR/rladies-niteroi/"
+  title = "R Commander para leigos em R"
+  url = "https://github.com/JuliaHellenFerreira/R-LadiesNiteroi/blob/master/R%20Commander%20para%20Leigos%20em%20R.pdf"
+  certificate_url = ""
+  date_start = "2018-08-30"
+  date_end = ""
+  description = "R Commander for lay people in R. "
+  
+[[item]]
+  organization = "Universidade Federal Fluminense"
+  organization_url = ""
+  title = "Introdução ao R Commander - Logística"
+  url = "https://github.com/JuliaHellenFerreira/R-Commander_Logistica/blob/master/Introducao%20ao%20R%20Commander_Logistica.pdf"
+  certificate_url = ""
+  date_start = "2019-05-13"
+  date_end = ""
+  description = "Introduction the R Commander - Logistics."  
+  
+[[item]]
+  organization = "R Ladies Niterói"
+  organization_url = "https://www.meetup.com/pt-BR/rladies-niteroi/"
+  title = "Análise as Bilheterias Mundiais do Cinema usando o R"
+  url = "https://github.com/JuliaHellenFerreira/Palestra-CinemaR/blob/master/Bilheterias%20finalizado.pptx"
+  certificate_url = ""
+  date_start = "2019-09-20"
+  date_end = ""
+  description = "Analysis of the world movies box office using R."
+  
+[[item]]
+  organization = "R Ladies Niterói"
+  organization_url = "https://www.meetup.com/pt-BR/rladies-niteroi/"
+  title = "Introdução a linguagem R"
+  url = "https://github.com/JuliaHellenFerreira/MinicursoIntR"
+  certificate_url = ""
+  date_start = "2019-09-27"
+  date_end = ""
+  description = "Introduction to R."
 
 +++
