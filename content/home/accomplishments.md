@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   organization_url = "https://www.datacamp.com"
   title = "Introduction to R"
   url = ""
-  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/6d6e6ccac652856954e3429400d6b905efbf2aa2"
+  certificate_url = ""
   date_start = ""
-  date_end = "2019-03-10"
+  date_end = ""
   description = ""
 
 
