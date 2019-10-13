@@ -69,4 +69,43 @@ date_format = "Jan 2006"
   date_end = "2018-05-24"
   description = "III Internacional Seminar on Statistics with R."
   
+[[item]]
+  organization = "Promagrama de Universalização em Línguas estrangeiras"
+  organization_url = "http://www.pule.uff.br/"
+  title = "Língua Inglesa"
+  url = ""
+  certificate_url = "https://github.com/JuliaHellenFerreira/Certificados/blob/master/Ingles.pdf"
+  date_start = "2018-03-20"
+  date_end = "2019-06-20"
+  description = "English Language"
+  
+[[item]]
+  organization = "III Seminário Internacional Estatística com R"
+  organization_url = "http://ser.uff.br/"
+  title = "Introduçaõ ao R"
+  url = ""
+  certificate_url = "https://github.com/JuliaHellenFerreira/Certificados/blob/master/Introducao%20ao%20R%20-%20SER.pdf"
+  date_start = "2018-05-22"
+  date_end = "2018-05-24"
+  description = "Introduction to R"
+  
+[[item]]
+  organization = "Idiomas sem Fonteira"
+  organization_url = "http://isf.mec.gov.br/"
+  title = "Produção Oral: interações acadêmicas"
+  url = ""
+  certificate_url = "https://github.com/JuliaHellenFerreira/Certificados/blob/master/Producao%20oral.pdf"
+  date_start = "2018-08-13"
+  date_end = "2018-10-19"
+  description = "Oral Production: Academic Interactions"
+  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introdução ao R"
+  url = ""
+  certificate_url = "https://github.com/JuliaHellenFerreira/Certificados/blob/master/datacamp-intror.pdf"
+  date_start = "2018-03-10"
+  date_end = "2018-03-10"
+  description = "Introduction to R"
 +++
