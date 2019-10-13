@@ -1,47 +1,48 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: R Commander for lay people in R
+event: Universidade Federal Fluminense - UFF
+event_url: https://www.meetup.com/pt-BR/rladies-niteroi/events/253336101/
 
-location: Source Themes HQ
+location: Campus do Gragoatá- UFF
+
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Rua Alexandre Moura, São Domingos
+  city: Niterói
+  region: RJ
+  postcode: 
+  country: Brazil
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Presentation of the R Commander package and its features.
+abstract: "The R Commander package is widely used for those just starting out with R. In this talk, I introduced the package, how to use it, and examples."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2018-08-30T20:00:00Z"
+date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: [Julia Ferreira]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**1° Chapter - Ladies Niterói**](https://secure.meetupstatic.com/photos/event/5/1/7/a/600_474200858.jpeg)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/juliahellenff
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://github.com/JuliaHellenFerreira/R-LadiesNiteroi/blob/master/R%20Commander%20para%20Leigos%20em%20R.pdf"
+url_video: "https://www.youtube.com/watch?v=CBR9sz4mYWM&list=PL98wo5oPtTvLKKhx6g4oatlnjfEvyO1jl"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -53,13 +54,13 @@ slides: example
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   E.g. `projects = [""]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- 
 
 # Enable math on this page?
-math: true
+math: false
 ---
 
 {{% alert note %}}
@@ -68,7 +69,7 @@ Click on the **Slides** button above to view the built-in slides feature.
 
 Slides can be added in a few ways:
 
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Create** slides using Academic's [*Slides*](https://github.com/JuliaHellenFerreira/R-LadiesNiteroi/blob/master/R%20Commander%20para%20Leigos%20em%20R.pdf) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
